@@ -54,10 +54,6 @@
     color:#a66;
   }
 
-  ul.a{
-    list-style-type: lower-alpha;
-  }
-
   h2 {
     font-family: "Roboto", sans-serif;
   }
@@ -78,6 +74,10 @@
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 5px;
+  }
+
+  ol {
+    list-style-type: lower-alpha;
   }
 
   nav li {
